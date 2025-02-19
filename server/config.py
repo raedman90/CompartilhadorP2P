@@ -1,0 +1,3 @@
+HOST = "0.0.0.0"
+PORT = 1234
+FILE_PORT = 1235
